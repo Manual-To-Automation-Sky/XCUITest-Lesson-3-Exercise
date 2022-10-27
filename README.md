@@ -1,8 +1,8 @@
-# Manual to Automation @ <a href="https://sky.co.uk/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png" alt="playwright" height="27" /></a> using XCUITest - Lesson 2 - Base Class, Waits and Extensions
+# Manual to Automation @ <a href="https://sky.co.uk/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png" alt="playwright" height="27" /></a> using XCUITest - Lesson 3 - Exercise
 
 ## Introduction
 
-This code contains a sample application and a number of tests. This iteration also includes an Extension class for XCUIElement and a Base Class example for reducing code.
+This code contains a sample application and a number of tests. This iteration also includes the solution to Exercise 3.
 
 ## Necessary Tools
 
@@ -18,11 +18,11 @@ To get the project ready to run on your machine, follow the steps below:
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 ```sh
-git clone https://github.com/Manual-To-Automation-Sky/XCUITest-Lesson-2-Base-Class-And-Extensions.git.
+git clone https://github.com/Manual-To-Automation-Sky/XCUITest-Lesson-3-Exercise.git.
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd XCUITest-Lesson-2-Base-Class-And-Extensions
+cd XCUITest-Lesson-3-Exercise
 ```
 
 ## Running Your Tests
